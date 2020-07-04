@@ -1,4 +1,6 @@
 # 开放资源收集 [GitHub](https://github.com/tmxdyf/tmxdyf.github.com)
+### 个人简历
+[个人简历](https://github.com/tmxdyf/tmxdyf.github.com/blob/master/_posts/2020-07-04-profile.md)
 ### 优秀资源网站    
    
 0. [My GitHub](https://github.com/tmxdyf)  
